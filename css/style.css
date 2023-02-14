@@ -1,0 +1,17 @@
+.brandrl {
+    font-size: 25px;
+    background: -webkit-linear-gradient(#f17c7c, #2e7add);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+body{
+    background-color: #E6D283;
+}
+.banner-holder, .main-page-header{
+    background-image: url("/Blog/img/pexels-ray-bilcliff-14263171.jpg");
+    background-size: cover;
+    background-position: bottom;
+    height: 480px;
+    width: 100%;
+}
+
