@@ -5,7 +5,7 @@
     -webkit-text-fill-color: transparent;
 }
 body{
-    background-color: #E6D283;
+    background-color: #ebdfae;
 }
 .banner-holder, .main-page-header{
     background-image: url("/Blog/img/pexels-ray-bilcliff-14263171.jpg");
@@ -14,4 +14,10 @@ body{
     height: 480px;
     width: 100%;
 }
-
+.banner-holder-categories {
+    background-image: url("/Blog/img/pexels-ray-bilcliff-14263171.jpg");
+    background-size: cover;
+    background-position: bottom;
+    height: 340px;
+    width: 100%;
+}
